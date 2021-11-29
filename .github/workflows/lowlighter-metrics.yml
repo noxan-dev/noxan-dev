@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           # Your GitHub token
-          token: ${{ METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: noxan-dev
@@ -63,7 +63,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_wakatime: no
-          plugin_wakatime_token: ${{ WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
