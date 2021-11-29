@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ METRICS_TOKEN }}
 
           # Options
           user: noxan-dev
