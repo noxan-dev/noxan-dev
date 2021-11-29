@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: noxan-dev/waka-readme-stats@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ WAKATIME_TOKEN }}
           SHOW_LOC_CHART: False
           SHOW_SHORT_INFO: False
