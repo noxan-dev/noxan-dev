@@ -62,7 +62,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_token: ${{ WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, projects-graphs
