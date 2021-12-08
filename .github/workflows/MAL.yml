@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: MyAnimeList readme workflow
-        uses: Noxan-dev/test
+        uses: MoonLGH/MAL-autoreadme@v2
         with:
-          username: "MoonLMAL"
+          username: "GiantWaifuKid"
           readme_path: "MoonLGH/MoonLGH"
