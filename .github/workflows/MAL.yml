@@ -14,4 +14,4 @@ jobs:
         uses: MoonLGH/MAL-autoreadme@v2
         with:
           username: "GiantWaifuKid"
-          readme_path: "MoonLGH/MoonLGH"
+          readme_path: "noxan-dev/noxan-dev"
