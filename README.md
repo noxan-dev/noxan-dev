@@ -4,9 +4,9 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 12 on (9/11/2021)
-- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 11 on (9/11/2021)
-- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 10 on (9/11/2021)
+- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 12 on (10/11/2021)
+- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 11 on (10/11/2021)
+- 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 10 on (10/11/2021)
 - 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 9 on (8/11/2021)
 - 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 8 on (8/11/2021)
 - 📺 Watched [Wonder Egg Priority](https://myanimelist.net/anime/43299) Episode 7 on (8/11/2021)
