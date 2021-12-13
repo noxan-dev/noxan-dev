@@ -4,8 +4,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 4 on (13/12/2021)
-- 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 3 on (13/12/2021)
+- 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 4 on (12/12/2021)
+- 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 3 on (12/12/2021)
 - 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 2 on (12/12/2021)
 - 📺 Watched [Demi-chan wa Kataritai](https://myanimelist.net/anime/33988) Episode 1 on (12/12/2021)
 - 📺 Watched [Wonder Egg Priority Special](https://myanimelist.net/anime/48614) Episode 1 on (12/12/2021)
