@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 17 on (17/12/2021)
+- 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 17 on (16/12/2021)
 - 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 16 on (16/12/2021)
 - 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 15 on (16/12/2021)
 - 📺 Watched [Saishuu Heiki Kanojo](https://myanimelist.net/anime/529) Episode 2 on (16/12/2021)
