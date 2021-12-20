@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 4 on (18/12/2021)
+- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 4 on (19/12/2021)
 - 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 17 on (16/12/2021)
 - 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 16 on (16/12/2021)
 - 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 15 on (16/12/2021)
