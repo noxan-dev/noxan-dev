@@ -4,8 +4,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 2 on (28/12/2021)
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 1 on (28/12/2021)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 2 on (27/12/2021)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 1 on (27/12/2021)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 9 on (26/12/2021)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 8 on (26/12/2021)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 7 on (26/12/2021)
