@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 6 on (29/12/2021)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 6 on (28/12/2021)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 5 on (28/12/2021)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 2 on (27/12/2021)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 1 on (27/12/2021)
