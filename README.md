@@ -10,8 +10,8 @@
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 11 on (5/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 10 on (5/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 9 on (5/1/2022)
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 8 on (4/1/2022)
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 7 on (4/1/2022)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 8 on (3/1/2022)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 7 on (3/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 11 on (29/12/2021)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 10 on (29/12/2021)
 
