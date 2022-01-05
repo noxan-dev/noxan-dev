@@ -4,9 +4,9 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 2 on (5/1/2022)
-- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 1 on (5/1/2022)
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 13 on (5/1/2022)
+- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 2 on (4/1/2022)
+- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 1 on (4/1/2022)
+- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 13 on (4/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 11 on (4/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 10 on (4/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 9 on (4/1/2022)
