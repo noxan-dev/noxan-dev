@@ -4,6 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 14 on (7/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 13 on (6/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 12 on (6/1/2022)
 - 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 4 on (6/1/2022)
@@ -13,6 +14,5 @@
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 13 on (4/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 11 on (4/1/2022)
 - 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 10 on (4/1/2022)
-- 📺 Watched [ReLIFE](https://myanimelist.net/anime/30015) Episode 9 on (4/1/2022)
 
 <!-- MAL_ACTIVITY:end -->
