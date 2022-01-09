@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 1 on (9/1/2022)
+- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 1 on (8/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 14 on (6/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 13 on (5/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 12 on (5/1/2022)
