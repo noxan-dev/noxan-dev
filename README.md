@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 17 on (16/1/2022)
+- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 17 on (15/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 16 on (13/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 15 on (11/1/2022)
 - 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 6 on (9/1/2022)
