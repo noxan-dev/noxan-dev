@@ -4,6 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 17 on (16/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 16 on (13/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 15 on (11/1/2022)
 - 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 6 on (9/1/2022)
@@ -13,6 +14,5 @@
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 12 on (5/1/2022)
 - 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 4 on (5/1/2022)
 - 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 3 on (5/1/2022)
-- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 2 on (4/1/2022)
 
 <!-- MAL_ACTIVITY:end -->
