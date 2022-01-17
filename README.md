@@ -4,6 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 18 on (17/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 17 on (16/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 16 on (13/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 15 on (11/1/2022)
@@ -13,6 +14,5 @@
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 13 on (5/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 12 on (5/1/2022)
 - 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 4 on (5/1/2022)
-- 📺 Watched [ReLIFE: Kanketsu-hen](https://myanimelist.net/anime/35466) Episode 3 on (5/1/2022)
 
 <!-- MAL_ACTIVITY:end -->
