@@ -4,10 +4,10 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 3 on (16/1/2022)
-- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 2 on (16/1/2022)
-- 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 1 on (16/1/2022)
-- 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 18 on (16/1/2022)
+- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 3 on (17/1/2022)
+- 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 2 on (17/1/2022)
+- 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 1 on (17/1/2022)
+- 📺 Watched [Accel World](https://myanimelist.net/anime/11759) Episode 18 on (17/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 17 on (15/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 16 on (13/1/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 15 on (11/1/2022)
