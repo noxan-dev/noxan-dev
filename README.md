@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 10 on (24/1/2022)
+- 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 10 on (25/1/2022)
 - 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 9 on (22/1/2022)
 - 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 8 on (22/1/2022)
 - 📺 Watched [Meikyuu Black Company](https://myanimelist.net/anime/42340) Episode 7 on (22/1/2022)
