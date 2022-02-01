@@ -6,7 +6,7 @@
 
 - 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 15 on (1/2/2022)
 - 📺 Watched [001](https://myanimelist.net/anime/29978) Episode 1 on (1/2/2022)
-- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 7 on (31/1/2022)
+- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 7 on (1/2/2022)
 - 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 14 on (31/1/2022)
 - 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 13 on (31/1/2022)
 - 📺 Watched [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759) Episode 12 on (31/1/2022)
