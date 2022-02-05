@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 8 on (4/2/2022)
+- 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 8 on (5/2/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 22 on (2/2/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 21 on (2/2/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 20 on (2/2/2022)
