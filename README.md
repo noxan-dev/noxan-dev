@@ -4,8 +4,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Blue Period](https://myanimelist.net/anime/46352) Episode 3 on (7/2/2022)
-- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 24 on (7/2/2022)
+- 📺 Watched [Blue Period](https://myanimelist.net/anime/46352) Episode 3 on (8/2/2022)
+- 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 24 on (8/2/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 23 on (7/2/2022)
 - 📺 Watched [Dumbbell Nan Kilo Moteru?](https://myanimelist.net/anime/39026) Episode 8 on (3/2/2022)
 - 📺 Watched [Dororo](https://myanimelist.net/anime/37520) Episode 22 on (2/2/2022)
