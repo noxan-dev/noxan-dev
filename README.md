@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://myanimelist.net/anime/41623) Episode 8 on (17/2/2022)
+- 📺 Watched [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://myanimelist.net/anime/41623) Episode 8 on (18/2/2022)
 - 📺 Watched [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://myanimelist.net/anime/41623) Episode 7 on (15/2/2022)
 - 📺 Watched [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://myanimelist.net/anime/41623) Episode 6 on (15/2/2022)
 - 📺 Watched [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://myanimelist.net/anime/47790) Episode 1 on (15/2/2022)
