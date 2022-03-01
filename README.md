@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 8 on (27/2/2022)
+- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 8 on (28/2/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 7 on (24/2/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 6 on (24/2/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 5 on (24/2/2022)
