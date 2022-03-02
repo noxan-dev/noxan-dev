@@ -4,7 +4,7 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 2 on (28/2/2022)
+- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 2 on (1/3/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 8 on (26/2/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 7 on (24/2/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 6 on (24/2/2022)
