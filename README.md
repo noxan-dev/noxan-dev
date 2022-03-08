@@ -4,8 +4,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 11 on (7/3/2022)
-- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 10 on (7/3/2022)
+- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 11 on (8/3/2022)
+- 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 10 on (8/3/2022)
 - 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 5 on (3/3/2022)
 - 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 4 on (3/3/2022)
 - 📺 Watched [Saihate no Paladin](https://myanimelist.net/anime/48761) Episode 9 on (3/3/2022)
