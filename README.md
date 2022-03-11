@@ -4,8 +4,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 2 on (9/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 1 on (9/3/2022)
+- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 2 on (10/3/2022)
+- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 1 on (10/3/2022)
 - 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 12 on (8/3/2022)
 - 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 11 on (8/3/2022)
 - 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 10 on (7/3/2022)
