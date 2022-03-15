@@ -4,15 +4,15 @@
 
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 9 on (10/3/2022)
-- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 8 on (10/3/2022)
-- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 7 on (10/3/2022)
-- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 6 on (10/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 2 on (9/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 1 on (9/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 12 on (8/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 11 on (8/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 10 on (7/3/2022)
-- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season](https://myanimelist.net/anime/39551) Episode 9 on (7/3/2022)
+- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 4 on (14/3/2022)
+- 📺 Watched [Tensei shitara Slime Datta Ken 2nd Season Part 2](https://myanimelist.net/anime/41487) Episode 3 on (14/3/2022)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926) Episode 2 on (14/3/2022)
+- 📺 Watched [Vinland Saga](https://myanimelist.net/anime/37521) Episode 9 on (14/3/2022)
+- 📺 Watched [Vinland Saga](https://myanimelist.net/anime/37521) Episode 8 on (14/3/2022)
+- 📺 Watched [Vinland Saga](https://myanimelist.net/anime/37521) Episode 7 on (14/3/2022)
+- 📺 Watched [Vinland Saga](https://myanimelist.net/anime/37521) Episode 6 on (14/3/2022)
+- 📺 Watched [Vinland Saga](https://myanimelist.net/anime/37521) Episode 5 on (14/3/2022)
+- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 12 on (14/3/2022)
+- 📺 Watched [Masamune-kun no Revenge](https://myanimelist.net/anime/33487) Episode 10 on (14/3/2022)
 
 <!-- MAL_ACTIVITY:end -->
