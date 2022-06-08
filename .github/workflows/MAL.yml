@@ -1,3 +1,7 @@
-- name: MyAnimeList Action
-  uses: Katsute/MyAnimeList@v2
+- uses: Katsute/MyAnimeList@v2
+  with:
+    client_id: ${{ secrets.CLIENT_ID }}
+    username: Noxane
+    type: anime
+    output: _data/anime.json
 
