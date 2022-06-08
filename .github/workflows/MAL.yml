@@ -1,17 +1,3 @@
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+- name: MyAnimeList Action
+  uses: Katsute/MyAnimeList@v2
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest MAL history
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: MyAnimeList readme workflow
-        uses: MoonLGH/MAL-autoreadme@v2
-        with:
-          username: "GiantWaifuKid"
-          readme_path: "noxan-dev/noxan-dev"
