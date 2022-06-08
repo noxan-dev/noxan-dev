@@ -1,7 +1,29 @@
-- uses: Katsute/MyAnimeList@v2
-  with:
-    client_id: ${{ secrets.CLIENT_ID }}
-    username: Noxane
-    type: anime
-    output: _data/anime.json
+name: Update Anime / Manga List
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0/5 * * * *'
+
+jobs:
+  myanimelist:
+    name: Update Anime
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📤 Checkout Repository
+        uses: actions/checkout@v2.3.4
+
+      - uses: Katsute/MyAnimeList@v2
+        with:
+          client_id: ${{ secrets.CLIENT_ID }}
+          username: Noxane
+          type: anime
+          output: _data/anime.json
+
+      - name: 📥 Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f "_data"
+          git diff-index --quiet HEAD || git commit -m 'Update Anime/Manga List'
+          git push
 
